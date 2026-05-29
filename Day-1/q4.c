@@ -9,6 +9,12 @@ int main()
     scanf("%d", &n);
 
     int original = n;
+    
+    if (n < 0)
+    {
+        n = -n;
+    }
+
     if (n == 0)
     {
         count = 1;
