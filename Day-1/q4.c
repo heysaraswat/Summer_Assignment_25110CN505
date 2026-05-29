@@ -9,11 +9,6 @@ int main()
     scanf("%d", &n);
 
     int original = n;
-    
-    if (n < 0)
-    {
-        n = -n;
-    }
 
     if (n == 0)
     {
@@ -21,7 +16,7 @@ int main()
     }
     else
     {
-        while (n > 0)
+        while (n != 0)
         {
             count++;
             n /= 10;
