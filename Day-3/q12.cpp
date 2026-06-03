@@ -14,7 +14,7 @@ int main()
 
     int lcm;
 
-    for (int i = 1; i < max(n1, n2); i++)
+    for (int i = max(n1, n2);; i++)
     {
         if (i % n1 == 0 && i % n2 == 0)
         {
