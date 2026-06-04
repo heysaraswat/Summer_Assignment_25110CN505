@@ -20,3 +20,9 @@ _This repository contains structured C/C++ programming assignments organized day
 10. Prime Numbers Printing in given range
 11. GCD of 2 Numbers
 12. LCM of 2 Numbers
+
+## Day-4
+13. Generate Fibonacci Series
+14. Find nth Fibonacci Term
+15. Check Armstrong Number
+16. Print Armstrong Number in given range
