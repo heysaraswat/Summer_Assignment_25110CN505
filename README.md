@@ -26,3 +26,9 @@ _This repository contains structured C/C++ programming assignments organized day
 14. Find nth Fibonacci Term
 15. Check Armstrong Number
 16. Print Armstrong Number in given range
+
+## Day-5
+17. Check Perfect Number
+18. Check Strong Number
+19. Print Factors of Number
+20. Find Largest Prime Factor 
