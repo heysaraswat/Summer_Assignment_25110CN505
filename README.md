@@ -31,4 +31,10 @@ _This repository contains structured C/C++ programming assignments organized day
 17. Check Perfect Number
 18. Check Strong Number
 19. Print Factors of Number
-20. Find Largest Prime Factor 
+20. Find Largest Prime Factor
+
+## Day-6
+21. Convert decimal to binary.
+22. Convert binary to decimal.
+23. Count set bits in a number.
+24. Find x^n without pow().
