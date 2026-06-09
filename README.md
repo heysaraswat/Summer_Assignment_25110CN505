@@ -78,3 +78,38 @@ _This repository contains structured C/C++ programming assignments organized day
     4444
     55555
 ```
+
+# Day-9
+33. Print Reverse Star Pattern
+```text
+    *****
+    ****
+    ***
+    **
+    *
+```
+34. Print Reverse Number Triangle
+```text
+    12345
+    1234
+    123
+    12
+    1
+```
+35. Print Repeated Character Pattern
+```text
+    A
+    BB
+    CCC
+    DDDD
+    EEEEE
+```
+36. Print Hollow Square Pattern
+```text
+
+    *****
+    *   *
+    *   *
+    *   *
+    *****
+```
