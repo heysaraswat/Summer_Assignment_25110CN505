@@ -38,3 +38,9 @@ _This repository contains structured C/C++ programming assignments organized day
 22. Convert binary to decimal.
 23. Count set bits in a number.
 24. Find x^n without pow().
+
+## Day-7
+25. Recursive Factorial
+26. Recursive Fibonacci
+27. Recursive Sum of Digits
+28. Recursive Reverse Number
