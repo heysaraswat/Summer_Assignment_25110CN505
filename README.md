@@ -43,4 +43,38 @@ _This repository contains structured C/C++ programming assignments organized day
 25. Recursive Factorial
 26. Recursive Fibonacci
 27. Recursive Sum of Digits
-28. Recursive Reverse Number
+28. Recursive Reverse 
+
+## Day-8
+29. Print Half Pyramid Pattern
+```text 
+    *
+    * *
+    * * *
+    * * * *
+    * * * * * 
+```
+30. Print Number Triangle 
+```text
+    1
+    12
+    123
+    1234
+    12345
+```
+31. Print Character Triangle
+```text
+    A
+    AB
+    ABC
+    ABCD
+    ABCDE
+```
+32. Print Repeated Number Pattern
+```text
+    1
+    22
+    333
+    4444
+    55555
+```
