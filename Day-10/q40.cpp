@@ -1,12 +1,12 @@
-// Write a Program to Print Number Pyramid
+// Write a Program to Print Character Pyramid
 
 /*
 
-    1
-   121
-  12321
- 1234321
-123454321
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
 
 */
 
@@ -21,7 +21,7 @@ int main()
     {
         // inner loop
 
-        int number = 1;
+        char ch = 'A';
 
         // for space printing
         for (int j = 0; j < (5 - i); j++)
@@ -29,20 +29,20 @@ int main()
             cout << " ";
         }
 
-        // for number printing
+        // for character printing
         for (int j = 0; j < i; j++)
         {
-            cout << number;
-            number++;
+            cout << ch;
+            ch++;
         }
 
-        number -= 2;
+        ch -= 2;
 
         // for remaining right half pattern printing
         for (int j = 0; j < (i - 1); j++)
         {
-            cout << number;
-            number--;
+            cout << ch;
+            ch--;
         }
 
         cout << endl;
