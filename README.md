@@ -113,3 +113,37 @@ _This repository contains structured C/C++ programming assignments organized day
     *   *
     *****
 ```
+
+# Day-10
+37. Print Star Pyramid Pattern
+```text
+     *
+    ***
+   *****
+  *******
+ *********
+```
+38. Print Reverse Star Pyramid Pattern
+```text
+    *********
+     *******
+      *****
+       ***
+        *
+```
+39. Print Number Pyramid
+```text
+    1
+   121
+  12321
+ 1234321
+123454321
+```
+40. Print Character Pyramid
+```text
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+```
