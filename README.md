@@ -147,3 +147,9 @@ _This repository contains structured C/C++ programming assignments organized day
  ABCDCBA
 ABCDEDCBA
 ```
+
+## Day-11
+41. Function to Find Sum of 2 Numbers
+42. Function to Find Maximum Among 3 Numbers
+43. Function to Check Prime 
+44. Function to Find Factorial
