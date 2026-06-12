@@ -153,3 +153,9 @@ ABCDEDCBA
 42. Function to Find Maximum Among 3 Numbers
 43. Function to Check Prime 
 44. Function to Find Factorial
+
+## Day-12
+45. Function to Check Palindrome or Not
+46. Function to Check Armstrong or Not
+47. Function to Print Fibonacci
+48. Function to Check Perfect or Not
