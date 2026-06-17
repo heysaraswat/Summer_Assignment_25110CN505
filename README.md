@@ -159,3 +159,9 @@ ABCDEDCBA
 46. Function to Check Armstrong or Not
 47. Function to Print Fibonacci
 48. Function to Check Perfect or Not
+
+## Day-13
+49. Input and Display Array
+50. Find Sum and Average of Array Elements
+51. Find Largest and Smallest Element in Array
+52. Count Even or Odd Elements in Array
