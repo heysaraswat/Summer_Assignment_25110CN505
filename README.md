@@ -165,3 +165,105 @@ ABCDEDCBA
 50. Find Sum and Average of Array Elements
 51. Find Largest and Smallest Element in Array
 52. Count Even or Odd Elements in Array
+
+## Day-14
+53. Linear search
+54. Frequency of an element
+55. Second largest element
+56. Find duplicates in array
+
+## Day-15
+57 Reverse array
+58. Rotate array left
+59. Rotate array right
+60. Move zeroes to end
+
+## Day-16
+61. Find missing number in array
+62. Find maximum frequency element
+63. Find pair with given sum
+64. Remove duplicates from array
+
+## Day-17
+65. Merge arrays
+66. Union of arrays
+67. Intersection of arrays
+68. Find common elements
+
+## Day-18
+69. Bubble sort
+70. Selection sort
+71. Binary search
+72. Sort array in descending order
+
+## Day-19
+73. Add matrices
+74. Subtract matrices
+75. Transpose matrix
+76. Find diagonal sum
+
+## Day-20
+77. Multiply matrices
+78. Check symmetric matrix
+79. Find row-wise sum
+80. Find column-wise sum
+
+## Day-21
+81. Find string length without strlen()
+82. Reverse a string
+83. Count vowels and consonants
+84. Convert lowercase to uppercase
+
+## Day-22
+85. Check palindrome string
+86. Count words in a sentence
+87. Character frequency
+88. Remove spaces from string
+
+## Day-23
+89. Find first non-repeating character
+90. Find first repeating character
+91. Check anagram strings
+92. Find maximum occurring character
+
+## Day-24
+93. Check string rotation
+94. Compress a string
+95. Find longest word
+96. Remove duplicate characters
+
+## Day-25
+97. Merge two sorted arrays
+98. Find common characters in strings
+99. Sort names alphabetically
+100. Sort words by length
+
+## Day-26
+101. Create number guessing game
+102. Create voting eligibility system
+103. Create ATM simulation
+104. Create quiz application
+
+## Day-27
+105. Create student record management system
+106. Create employee management system
+107. Create salary management system
+108. Create marksheet generation system
+
+## Day-28
+109. Create library management system
+110. Create bank account system
+111. Create ticket booking system
+112. Create contact management system
+
+## Day-29
+113. Create menu-driven calculator
+114. Create menu-driven array operations system
+115. Create menu-driven string operations system
+116. Create inventory management system
+
+## Day-30
+117. Create student record system using arrays and strings
+118. Create mini library system
+119. Create mini employee management system
+120. Develop complete mini project using arrays, strings and functions.
